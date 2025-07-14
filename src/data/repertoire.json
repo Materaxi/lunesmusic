@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Cuan Grande Es Él",
+    "artist": "Carl Boberg",
+    "chord": "G",
+    "link": "https://www.youtube.com/watch?v=example1",
+    "lyrics": "Oh Señor, mi Dios, al contemplar los cielos,\nEl firmamento y las estrellas mil;\nAl oír tu voz en los potentes truenos\nY ver brillar al sol en su cenit.\n\nMi corazón entona la canción:\n¡Cuán grande es Él! ¡Cuán grande es Él!\nMi corazón entona la canción:\n¡Cuán grande es Él! ¡Cuán grande es Él!"
+  },
+  {
+    "name": "Digno Es El Cordero",
+    "artist": "Marcos Witt",
+    "chord": "Am",
+    "link": "https://www.youtube.com/watch?v=example2",
+    "lyrics": "Digno es el Cordero que fue inmolado\nDe tomar el poder, las riquezas, la sabiduría\nY la fortaleza, la honra, la gloria y la alabanza.\n\nDigno es el Cordero que fue inmolado\nDe tomar el poder, las riquezas, la sabiduría\nY la fortaleza, la honra, la gloria y la alabanza.\n\nA Él sea la gloria, a Él sea el imperio\nPor los siglos de los siglos, amén."
+  },
+  {
+    "name": "Happy",
+    "artist": "Pharrell Williams",
+    "chord": "F",
+    "link": "https://www.youtube.com/watch?v=example3",
+    "lyrics": "It might seem crazy what I'm about to say\nSunshine she's here, you can take a break\nI'm a hot air balloon that could go to space\nWith the air, like I don't care, baby by the way\n\n(Because I'm happy)\nClap along if you feel like a room without a roof\n(Because I'm happy)\nClap along if you feel like happiness is the truth\n(Because I'm happy)\nClap along if you know what happiness is to you\n(Because I'm happy)\nClap along if you feel like that's what you wanna do"
+  },
+  {
+    "name": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "chord": "D",
+    "link": "https://www.youtube.com/watch?v=example4",
+    "lyrics": "She's got a smile that it seems to me\nReminds me of childhood memories\nWhere everything was as fresh as the bright blue sky\n\nNow and then when I see her face\nShe takes me away to that special place\nAnd if I stare too long, I'd probably break down and cry\n\nSweet child o' mine\nSweet love of mine"
+  },
+  {
+    "name": "Dios Incomparable",
+    "artist": "Marco Barrientos",
+    "chord": "C",
+    "link": "https://www.youtube.com/watch?v=example5",
+    "lyrics": "No hay nadie como tú, oh Dios\nNo hay nadie como tú\nGrande en poder, grande en amor\nNo hay nadie como tú\n\nDios incomparable, Dios de amor\nTu misericordia es para siempre\nTu fidelidad es grande, oh Dios\nNo hay nadie como tú"
+  },
+  {
+    "name": "Rey de Reyes",
+    "artist": "Danilo Montero",
+    "chord": "G",
+    "link": "https://www.youtube.com/watch?v=example6",
+    "lyrics": "Rey de reyes, Señor de señores\nGloria a Dios, gloria a Dios\nRey de reyes, Señor de señores\nGloria a Dios, gloria a Dios\n\nÉl es el Rey de reyes\nÉl es el Señor de señores\nSu nombre es Jesús, Jesús, Jesús\nGloria a Dios"
+  }
+]

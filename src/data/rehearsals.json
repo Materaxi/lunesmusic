@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2025-07-07",
+    "dayOfWeek": "Lunes",
+    "time": "21:30",
+    "songs": [
+      "Alabanza - Cuan Grande Es Él",
+      "Adoración - Digno Es El Cordero",
+      "Pop - Happy (Pharrell Williams)",
+      "Rock - Sweet Child O' Mine (Guns N' Roses)"
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "dayOfWeek": "Lunes",
+    "time": "21:30",
+    "songs": [
+      "Clásico - Canon en Re Mayor (Pachelbel)",
+      "Jazz - Autumn Leaves (Joseph Kosma)",
+      "Alabanza - Dios Incomparable",
+      "Pop - Blinding Lights (The Weeknd)"
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "dayOfWeek": "Lunes",
+    "time": "21:30",
+    "songs": [
+      "Adoración - Rey de Reyes",
+      "Rock - Bohemian Rhapsody (Queen)",
+      "Clásico - Para Elisa (Beethoven)",
+      "Jazz - Take Five (Dave Brubeck Quartet)"
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "dayOfWeek": "Lunes",
+    "time": "21:30",
+    "songs": [
+      "Alabanza - La Bondad de Dios",
+      "Pop - Shape of You (Ed Sheeran)",
+      "Rock - Smells Like Teen Spirit (Nirvana)",
+      "Clásico - Pequeña Serenata Nocturna (Mozart)"
+    ]
+  }
+]
