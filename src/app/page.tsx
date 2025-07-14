@@ -36,7 +36,7 @@ export default async function HomePage() {
             Lunes Music
           </h1>
           <p className="mt-2 text-xl md:text-2xl text-gray-800 dark:text-gray-200 font-medium">
-            Tu cronograma de ensayos semanales
+            Tu cronograma de ensayo Mensual
           </p>
         </div>
       </header>
